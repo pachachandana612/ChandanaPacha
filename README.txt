@@ -1,32 +1,29 @@
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Chandana Pacha - Data Professional Portfolio
 
+Welcome to my portfolio! This site showcases my projects, certifications, and technical achievements in data science, data engineering, analytics, and product analysis.
 
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
+Overview
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+This portfolio is designed to provide an overview of my professional background, skills, and notable projects. It includes sections highlighting my key projects, certifications, and ways to connect.
 
-(* = not included)
+Sections
 
-AJ
-aj@lkn.io | @ajlkn
+	1.	Projects - Key projects showcasing my work in data analysis, visualization, and machine learning:
+	•	British Airways Customer Review Analytics: Analysis of customer reviews and booking data with sentiment analysis and prediction modeling.
+	•	Social Buzz Analytics: Insights and strategy for content performance and engagement optimization.
+	•	NYC Airbnb Analysis: Data analysis to identify factors impacting rental prices in NYC.
+	•	Customer Shopping Data Analysis: Analysis of shopping patterns, product preferences, and regional spending trends.
+	•	Infodat Chatbot Development: A responsive, JSON-mapped chatbot using OpenAI’s GPT-3.5 Turbo for dynamic customer interactions.
+	2.	Certifications - Highlights of my certifications, including:
+	•	Performance Analytics and Essentials on ServiceNow
+	•	Data Science Job Simulation with British Airways
+	•	Data Analytics with Accenture
+	3.	Contact Information - Links to connect on LinkedIn and GitHub.
 
+Technologies Used
 
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+	•	Data Science: Python, SQL, Tableau, R
+	•	Data Engineering: Apache Spark, Hadoop
+	•	Machine Learning: Scikit-learn, TensorFlow
+	•	Visualization: Power BI, Tableau
+	•	Web Scraping: BeautifulSoup
